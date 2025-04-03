@@ -1,0 +1,14 @@
+body {
+    background: rgb(235, 238, 67);
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-size: 40px;
+    min-height: 100vh; 
+    text-align: center;
+    color: rgb(187, 21, 21);
+} */
+
+ .description {
+    transition: 0.9s ease-in-out;
+}
