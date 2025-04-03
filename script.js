@@ -1,6 +1,6 @@
 var counter = document.querySelector(".counter");
 var Followers = document.querySelector(".Followers");
-
+console.log("Test")
 
 let count =1;
 setInterval(()=>{
